@@ -1,3 +1,5 @@
+Forked from https://github.com/RandolphVI/Multi-Label-Text-Classification
+
 # Deep Learning for Multi-Label Text Classification
 
 This project is my research group project, and it is also a study of TensorFlow, Deep Learning(Fasttext, CNN, LSTM, RCNN, etc.).
